@@ -1,4 +1,5 @@
 # pip install PyOpenGL PyOpenGL_accelerate
+# based on https://www.geeksforgeeks.org/bresenhams-algorithm-for-3-d-line-drawing/
 
 import pygame
 from pygame.locals import *
